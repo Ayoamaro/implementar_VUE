@@ -1,7 +1,7 @@
 # U10-A03a: Implementar Vue
 ![imagen_previa.PNG](https://github.com/Ayoamaro/implementar_VUE.github.io/blob/master/img/imagen_previa.PNG?raw=true)
 
-## Requisitos mínimos de la actividad
+## Requisitos mínimos
 Realizar alguna de la actividades anteriores haciendo uso del framework Vue.
 Cómo mínimo se deben implementar:
 * directivas: v-model, v-show, condicionales (v-if, v-else-if, v-else)
