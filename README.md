@@ -15,6 +15,6 @@ Cómo mínimo se deben implementar:
 
 ## Hecho con
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - **47,85%**
-* [Vue.js](https://vuejs.org) - **11,02%**
 * [HTML5](https://developer.mozilla.org/es/docs/HTML/HTML5) - **25,00%**
 * [Bootstrap 4](https://getbootstrap.com) - **16,13%**
+* [Vue.js](https://vuejs.org) - **11,02%**
