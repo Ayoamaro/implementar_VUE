@@ -1,5 +1,5 @@
 # U10-A03a: Implementar Vue
-![imagen_previa.PNG](https://bit.ly/2TCTEJB)
+![imagen_previa.PNG](https://bit.ly/2ZAE2de)
 
 ## Requisitos mínimos de la actividad
 Realizar alguna de la actividades anteriores haciendo uso del framework Vue.
