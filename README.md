@@ -11,7 +11,7 @@ Cómo mínimo se deben implementar:
 1. Descargar [el proyecto](https://bit.ly/2zt6DGT) y descomprimir
 2. Abrir con [Visual Studio Code](https://code.visualstudio.com) o algún editor de código
 3. Descargar el [Live Server](https://bit.ly/3elOzNx)
-3. Abrir el index.html y ejecutarlo con la opción "Go Live"
+3. Abrir el **index.html** y ejecutarlo con la opción "Go Live"
 
 ## Hecho con
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
