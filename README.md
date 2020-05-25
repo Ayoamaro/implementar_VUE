@@ -8,10 +8,10 @@ Cómo mínimo se deben implementar:
 * un componente
 
 ## Ejecución
-1. Descargar el [Proyecto](https://bit.ly/3gpDQns) y descomprimir
-2. Abrir con [Visual Studio Code](https://code.visualstudio.com) o algún editor de código
-3. Descargar el [Live Server](https://bit.ly/3elOzNx)
-3. Abrir el **index.html** y ejecutarlo con la opción "Go Live"
+1. Descargar el [Proyecto](https://bit.ly/3gpDQns) y descomprimir.
+2. Abrir con [Visual Studio Code](https://code.visualstudio.com) o algún editor de código.
+3. Descargar el [Live Server](https://bit.ly/3elOzNx).
+3. Abrir el **index.html** y ejecutarlo con la opción "Go Live".
 
 ## Hecho con
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - **47,85%**
