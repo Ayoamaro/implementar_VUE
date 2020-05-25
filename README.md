@@ -1,5 +1,5 @@
 # U10-A03a: Implementar Vue
-![imagen_previa.PNG](https://bit.ly/2ZAE2de)
+![imagen_previa.PNG](https://github.com/Ayoamaro/implementar_VUE.github.io/blob/master/img/imagen_previa.PNG?raw=true)
 
 ## Requisitos mínimos de la actividad
 Realizar alguna de la actividades anteriores haciendo uso del framework Vue.
